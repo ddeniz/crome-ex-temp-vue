@@ -2,7 +2,7 @@
   <div class="options">
     <div class="container">
       <div class="header">
-        Headless Recorder Options
+        Portakal Plus Options
         <small class="saving-badge text-muted" v-show="saving">
           Saving...
         </small>

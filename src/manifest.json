@@ -1,5 +1,5 @@
 {
-  "name": "Headless Recorder",
+  "name": "Portakal Plus",
   "version": "0.8.1",
   "manifest_version": 2,
   "description": "A Chrome extension for recording browser interaction and generating Puppeteer & Playwright scripts",
@@ -19,7 +19,7 @@
   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
   "browser_action": {
     "default_icon": "images/icon-black.png",
-    "default_title": "Headless Recorder",
+    "default_title": "Portakal Plus",
     "default_popup": "index.html"
   },
   "commands": {
