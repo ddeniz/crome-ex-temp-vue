@@ -1,5 +1,5 @@
 {
-  "name": "headless-recorder",
+  "name": "portkal-plus",
   "version": "0.8.1",
   "description": "A Chrome extension for recording browser interaction and generating Puppeteer & Playwright scripts",
   "main": "index.js",
@@ -15,19 +15,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/checkly/headless-recorder"
+    "url": "https://github.com/ddeniz/crome-ex-temp-vue"
   },
   "keywords": [
     "puppeteer",
     "chrome",
     "extension"
   ],
-  "author": "Tim Nolet",
+  "author": "Derya Deniz Doğan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/checkly/headless-recorder/issues"
+    "url": "https://github.com/ddeniz/crome-ex-temp-vue/issues"
   },
-  "homepage": "https://github.com/checkly/headless-recorder#readme",
+  "homepage": "https://github.com/ddeniz/crome-ex-temp-vue#readme",
   "dependencies": {
     "@medv/finder": "^1.1.2",
     "events": "^3.0.0",

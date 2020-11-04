@@ -1,5 +1,5 @@
 <template functional>
-  <div class="checkly-badge text-muted">
+  <div class="fishbone-badge text-muted">
     powered by
     <a href="https://github.com/ddeniz" target="_blank">
       <img src="/images/fishbonelogo.jpg" alt="Fishbone logo">
@@ -14,7 +14,7 @@
 </script>
 
 <style lang="scss" scoped>
-  .checkly-badge {
+  .fishbone-badge {
     display: flex;
     justify-content: flex-end;
     align-items: center;

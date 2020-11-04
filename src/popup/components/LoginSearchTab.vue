@@ -1,5 +1,5 @@
 <template>
-<div id="app">
+<div>
     <v-autocomplete
         v-model="model"
         :items="items"

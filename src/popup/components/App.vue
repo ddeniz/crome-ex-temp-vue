@@ -1,6 +1,6 @@
 <template>
   <v-app>
-  <div id="headless-recorder" class="recorder">
+  <div class="portakalplus">
     <div class="header">
       <a href="#" @click="goHome">
         Deniz <span class="text-muted"><small>{{version}}</small></span>
@@ -80,7 +80,7 @@ export default {
   @import "~styles/_animations.scss";
   @import "~styles/_variables.scss";
   @import "~styles/_mixins.scss";
-  .recorder {
+  .portakalplus {
     font-size: 14px;
 
     .header {
